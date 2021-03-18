@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sotam1069
+- 👋 Hi, I’m @sotam1069 or Pedro Matos.
 - 👀 I’m interested in programming and video games.
 - 🌱 I’m currently learning python and linux!
 - 💞️ I’m looking to collaborate on any programming projects! Looking to get as much experience as possible.
