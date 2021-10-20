@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @sotam1069 or Pedro Matos.
-- 👀 I’m interested in programming and video games.
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on any programming projects! Looking to get as much experience as possible.
-- 📫 How to reach me: pedromv1069@gmail.com / linkedin: Pedro Matos Villanueva
-
-<!---
-sotam1069/sotam1069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi my name is Pedro Matos, I am a 18 year old software engineering student at University of Puerto Rico - Mayaguez Campus. I am currently learning python in my first year and plan to start Java by next year. Welcome to my Github page, check out my projects and dont forget to leave me a star! :)
