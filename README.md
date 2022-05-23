@@ -1,4 +1,5 @@
-![header](https://user-images.githubusercontent.com/62779236/169747846-ab630673-9319-40eb-9d19-b9bd3a0f5d79.png)
+![header](https://user-images.githubusercontent.com/62779236/169748733-a58d03c1-4695-41c5-a539-3b950591502d.png)
+
 
 
 Hi my name is Pedro Matos, I am a 18 year old software engineering student at University of Puerto Rico - Mayaguez Campus. I just finished taking Advanced Programming in C++ and I am currently learning Java for Data Structures and Algorithms. Welcome to my Github page, check out my projects and dont forget to leave me a star! :)
