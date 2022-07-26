@@ -2,7 +2,7 @@
 
 
 
-Hi my name is Pedro Matos, I am an 18 year old software engineering student at University of Puerto Rico - Mayaguez Campus. I just finished my CIIC-4010 course in C++ and I am currently learning Java for Data Structures and Algorithms. Welcome to my Github page, check out my projects and dont forget to leave me a star! :)
+Hi my name is Pedro Matos, I am an 19 year old software engineering student at University of Puerto Rico - Mayaguez Campus. I just finished my CIIC-4010 course in C++ and I am currently learning Java for Data Structures and Algorithms. Welcome to my Github page, check out my projects and dont forget to leave me a star! :)
 
 
 * Learning Java/C++ for Data Structures
