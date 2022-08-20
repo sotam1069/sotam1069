@@ -1,16 +1,27 @@
-![header](https://user-images.githubusercontent.com/62779236/169748733-a58d03c1-4695-41c5-a539-3b950591502d.png)
+<h1 align="center">Hi 👋, I'm Pedro Matos</h1>
+<h3 align="center">I am a Sophomore Software Engineering student from UPR - Mayaguez</h3>
 
+- 🔭 I’m currently working on [The Software Department for Alpha Astrum](https://www.linkedin.com/company/alpha-astrum/mycompany/)
 
+- 🌱 I’m currently learning **Java and Data Structures/Algorithms**
 
-Hi my name is Pedro Matos, I am an 19 year old software engineering student at University of Puerto Rico - Mayaguez Campus. I just finished my CIIC-4010 course in C++ and I am currently learning Java for Data Structures and Algorithms. Welcome to my Github page, check out my projects and dont forget to leave me a star! :)
+- 💻 Currently interested in: **Artificial Intelligence and Game Development**
 
+- 📫 How to reach me **pedromv1069@gmail.com**
 
-* Learning Data Structures
-* Currently at Capital One Tech - Mini Mester
-* Interested in Artificial Intelligence and Game Development
-* Looking to collaborate on many software development projects
-* How to reach me: pedromv1069@gmail.com or pedro.matos9@upr.edu
-* Check out my [Linkedin](https://www.linkedin.com/in/pedro-matos-5a351b209/) page!
+- ⚡ Fun fact **I like to challenge myself on CodeForces in my spare time!**
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sotam1069&count_private=true&theme=react&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sotam1069&langs_count=5&theme=react)]()
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pedro-matosv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-matosv" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sotam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sotam" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sotam1069&show_icons=true&locale=en&layout=compact" alt="sotam1069" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sotam1069&show_icons=true&locale=en" alt="sotam1069" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sotam1069&" alt="sotam1069" /></p>
