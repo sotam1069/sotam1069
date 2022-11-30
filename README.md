@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [The Software Department for Alpha Astrum](https://www.linkedin.com/company/alpha-astrum/mycompany/)
 
-- 🌱 I’m currently learning **Java and Data Structures/Algorithms**
+- 🌱 I’m currently learning **Java and Rust**
 
-- 💻 Currently interested in: **Artificial Intelligence and Game Development**
+- 💻 Currently interested in: **Web Development and Artificial Intelligence**
 
 - 📫 How to reach me **pedromv1069@gmail.com**
-
-- ⚡ Fun fact **I like to challenge myself on CodeForces in my spare time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
