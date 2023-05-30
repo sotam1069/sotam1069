@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💻 Currently interested in: **Web Development and Artificial Intelligence**
+- 💻 Currently interested in: **i18n and rustlang**
 
 - 📫 How to reach me **pedromv1069@gmail.com**
 
