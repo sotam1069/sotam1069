@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Matos</h1>
 <h3 align="center">I am a Sophomore Software Engineering student from UPR - Mayaguez</h3>
 
-- 🔭 I’m currently working on [The Software Department for Alpha Astrum](https://www.linkedin.com/company/alpha-astrum/mycompany/)
+- 🔭 I’m currently working on [ICU4X](https://github.com/unicode-org/icu4x)
 
-- 🌱 I’m currently learning **Java and Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 💻 Currently interested in: **Web Development and Artificial Intelligence**
 
