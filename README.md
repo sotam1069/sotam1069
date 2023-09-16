@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [ICU4X](https://github.com/unicode-org/icu4x)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and **Typescript**
 
-- 💻 Currently interested in: **i18n and rustlang**
+- 💻 Currently interested in: **React and i18n**
 
 - 📫 How to reach me **pedromv1069@gmail.com**
 
