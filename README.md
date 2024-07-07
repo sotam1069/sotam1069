@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pedro Matos</h1>
-<h3 align="center">I am a Sophomore Software Engineering student from UPR - Mayaguez</h3>
+<h3 align="center">I am a Senior Software Engineering student from UPR - Mayaguez</h3>
 
-- 🔭 I’m currently working on [ICU4X](https://github.com/unicode-org/icu4x)
+- 🔭 Currently working as a SWE Intern at Google!
 
-- 🌱 I’m currently learning **Rust** and **Typescript**
+- 🌱 I am learning **Go** and **Rust** in my freetime.
 
-- 💻 Currently interested in: **React and i18n**
+- 💻 My current interests are in: *Artificial Intelligence* and *Game development*
 
 - 📫 How to reach me **pedromv1069@gmail.com**
 
