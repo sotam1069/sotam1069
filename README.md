@@ -3,9 +3,9 @@
 
 - 🔭 Currently working as a SWE Intern at Google!
 
-- 🌱 I am learning **Go** and **Rust** in my freetime.
+- 🌱 I am learning **C** in my freetime.
 
-- 💻 My current interests are in: *Artificial Intelligence* and *Game development*
+- 💻 My current interests are in: *Low Level Systems* and *Game development*
 
 - 📫 How to reach me **pedromv1069@gmail.com**
 
